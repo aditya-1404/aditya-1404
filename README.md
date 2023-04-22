@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" height="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> 
+<img align="center" alt="Coding" width="1000" height="300" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> 
 <h1 align="center">Hi 👋, I'm Aditya Srivastava</h1>
 <h3 align="center">Frontend Developer|TIET,India</h3>
 
