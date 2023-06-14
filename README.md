@@ -1,12 +1,12 @@
 <img align="center" alt="Coding" width="1000" height="300" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"> 
 <h1 align="center">Hi 👋, I'm Aditya Srivastava</h1>
-<h3 align="center">Frontend Developer|TIET,India</h3>
+<h3 align="center">FullStack Developer|TIET,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-1404&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-1404" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aditya165866131" target="blank"><img src="https://img.shields.io/twitter/follow/aditya165866131?logo=twitter&style=for-the-badge" alt="aditya165866131" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **React,DSA**
 
