@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **React,DSA**
+- 💬 Ask me about **MERN,DSA**
 
 - 📫 How to reach me **srivastavaaditya0522@gmail.com**
 
